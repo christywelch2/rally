@@ -6,7 +6,10 @@ As a college student in New York City and as a native New Yorker who is always o
 
 
 ### **Installation Guidelines:**
-This section of the file will be updated as per the status of the project. Currently, we are in the foundation phase of the project.
+This section of the file will be updated as per the status of the project. Currently, we are in the foundation phase of the project. After cloning, forking, or downloading our repository, run **npm install** in order to install the necessary dependencies. 
+
+### **Running Unit Tests**
+Clone, fork, or download the branch "unitTestsSprint0" and install the project dependencies with **npm install**. To run the tests with code coverage, use **npm test**. Mocha will recurse through the "test" directory and run each test. Authors of each unit test are written in the comments at the beginning of each file.
 
 ### **Team Members:**
 
